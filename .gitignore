@@ -1,0 +1,35 @@
+/archive/
+/dist/
+/node_modules/
+/.metadata/
+.idea/
+/target/
+.DS_Store
+.project
+/.settings/
+.gradle/
+/Servers/
+build/
+/bin/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.launch
+ 
+# CDT-specific
+.cproject
+  
+# PDT-specific
+.buildpath
+.classpath
+   
+# sbteclipse plugin 
+.target
+    
+# TeXlipse plugin
+.texlipse
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
