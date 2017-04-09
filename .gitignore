@@ -33,3 +33,7 @@ build/
 # Jupyter notebooks
 .ipynb_checkpoints
 
+.mp4
+.gz
+.csv
+.png
