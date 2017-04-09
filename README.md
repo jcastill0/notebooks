@@ -48,6 +48,8 @@
 ## Libraries
 [Panda](http://pandas.pydata.org/)
 
+[Panda Intro](https://youtu.be/9d5-Ti6onew0
+
 ## Getting Started
 [Installing Anaconda](https://www.continuum.io/downloads)
 
