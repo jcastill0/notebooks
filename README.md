@@ -1,4 +1,4 @@
-# Collection of notes about notebooks on AI/ML
+# Collection of notes on AI/ML
 [Watch this video first](https://vimeo.com/170189199)
 
 ## Courses on AI/ML
