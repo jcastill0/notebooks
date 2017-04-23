@@ -1,6 +1,8 @@
 # Collection of notes on AI/ML
 [Watch this video first](https://vimeo.com/170189199)
+
 [Tensorflow and Deep Learning] (https://youtu.be/qyvlt7kiQoI0)
+
 [Tensorflow Slides] (https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
 
 ## Courses on AI/ML
