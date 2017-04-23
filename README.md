@@ -1,5 +1,7 @@
 # Collection of notes on AI/ML
 [Watch this video first](https://vimeo.com/170189199)
+[Tensorflow and Deep Learning] (https://youtu.be/qyvlt7kiQoI0)
+[Tensorflow Slides] (https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
 
 ## Courses on AI/ML
 ### Prerequisites
@@ -17,6 +19,18 @@
 [Deep Learning by Google @ Udacity](https://www.udacity.com/course/deep-learning--ud730)
 
 [Deep Learning for NLP @ Stanford](http://cs224d.stanford.edu/syllabus.html)
+
+[Creative Applications of DL with Tensorflow] (https://www.class-central.com/mooc/6679/kadenze-creative-applications-of-deep-learning-with-tensorflow)
+
+[Neural Networks for ML] (https://www.class-central.com/mooc/398/coursera-neural-networks-for-machine-learning)
+
+[Practical Learning for Coders -1] (https://www.class-central.com/mooc/7887/practical-deep-learning-for-coders-part-1)
+
+[Introduction to Deep Learning] (https://www.class-central.com/mooc/8083/6-s191-introduction-to-deep-learning)
+
+[Deep Learning for NLP] (https://www.class-central.com/mooc/8097/deep-learning-for-natural-language-processing)
+
+[
 
 ## Self Training
 [7 Steps to Machine Learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
