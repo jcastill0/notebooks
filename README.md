@@ -32,10 +32,11 @@
 
 [Deep Learning for NLP](https://www.class-central.com/mooc/8097/deep-learning-for-natural-language-processing)
 
-[
 
-## Self Training
+## Self Training/Tutorial
 [7 Steps to Machine Learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+
+[Keras Simple Tutorial](https://medium.com/towards-data-science/keras-tutorial-deep-learning-in-python-2caf497f8ca1)
 
 ## Tools
 [Anaconda](https://www.continuum.io/)
@@ -78,7 +79,13 @@
 #### Libraries available from Conda Repo
 ```
 %source activate <Conda-Env>
+%conda list # to show currently installed packages
 %conda install --channel <url> <package>
+
+# Tensorflow
+%conda install -c conda-forge tensorflow
+# Keras
+%conda install -c conda-forge keras
 ```
 ## References
 [Deep Learning Glossary](https://deeplearning4j.org/glossary)
