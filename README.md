@@ -36,7 +36,7 @@
 ## Self Training/Tutorial
 [7 Steps to Machine Learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
-[Keras Simple Tutorial](https://medium.com/towards-data-science/keras-tutorial-deep-learning-in-python-2caf497f8ca1)
+[Keras Simple Tutorial](https://www.datacamp.com/community/tutorials/deep-learning-python#gs.B1YeSy8)
 
 ## Tools
 [Anaconda](https://www.continuum.io/)
