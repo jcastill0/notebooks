@@ -82,6 +82,9 @@
 %conda list # to show currently installed packages
 %conda install --channel <url> <package>
 
+# search
+%conda search <package>
+
 # Tensorflow
 %conda install -c conda-forge tensorflow
 # Keras
