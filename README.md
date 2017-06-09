@@ -94,3 +94,5 @@
 [Deep Learning Glossary](https://deeplearning4j.org/glossary)
 
 [AI Blog](https://openai.com/blog/)
+
+[Cheat Sheet](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
