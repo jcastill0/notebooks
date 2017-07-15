@@ -47,6 +47,8 @@
 ## Self Training/Tutorial
 [7 Steps to Machine Learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
+[Tutorial References](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+
 [Keras Simple Tutorial](https://www.datacamp.com/community/tutorials/deep-learning-python#gs.B1YeSy8)
 
 ## Tools
