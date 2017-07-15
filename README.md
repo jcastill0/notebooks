@@ -47,12 +47,14 @@
 
 [NLP with Deep Learning @ Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-## Self Training/Tutorial
+## Self Training/Tutorials
 [7 Steps to Machine Learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
 [Tutorial References](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 
 [Keras Simple Tutorial](https://www.datacamp.com/community/tutorials/deep-learning-python#gs.B1YeSy8)
+
+[Kaggle Python Tutorial](https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning#gs.MspTReE)
 
 ## Tools
 [Anaconda](https://www.continuum.io/)
@@ -73,7 +75,6 @@
 [Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing)
 
 ## Learning Platforms
-
 ### Tensorflow
 [Tensorflow; ](https://www.tensorflow.org/)
 
@@ -91,6 +92,8 @@
 [Panda](http://pandas.pydata.org/)
 
 [Panda Intro](https://youtu.be/9d5-Ti6onew0)
+
+[Seaborn](https://stanford.edu/~mwaskom/software/seaborn/)
 
 ## Organizations
 [OpenAI](https://openai.com/)
