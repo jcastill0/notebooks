@@ -3,7 +3,10 @@
 
 [Tensorflow and Deep Learning](https://youtu.be/qyvlt7kiQoI0)
 
-[Tensorflow Slides](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
+### Youtube Channels
+[Sentdex](https://www.youtube.com/user/sentdex)
+
+[ML @ Berkeley](https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg)
 
 ## Courses on AI/ML
 ### Prerequisites
@@ -38,12 +41,6 @@
 
 [NLP with Deep Learning @ Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-## YouTube
-
-[Sentdex](https://www.youtube.com/user/sentdex)
-
-[ML @ Berkeley](https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg)
-
 ## Self Training/Tutorial
 [7 Steps to Machine Learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
@@ -70,10 +67,15 @@
 [Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing)
 
 ## Learning Platforms
+
+### Tensorflow
 [Tensorflow; ](https://www.tensorflow.org/)
 
 [Tensorflow Sandbox](http://playground.tensorflow.org/)
 
+[Tensorflow Slides](https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.p)
+
+### Apache
 [Apache PredictionIO](http://predictionio.incubator.apache.org/)
 
 ## Algorithms
