@@ -18,6 +18,8 @@
 ### AI/ML
 [Machine Learning @ Coursera](https://www.coursera.org/learn/machine-learning)
 
+[Machine Learning @ Udacity](https://www.udacity.com/course/machine-learning--ud262)
+
 [Neural Networks for Machine Learning @ Coursera](https://www.coursera.org/learn/neural-networks)
 
 [Deep Learning by Google @ Udacity](https://www.udacity.com/course/deep-learning--ud730)
@@ -28,11 +30,13 @@
 
 [Neural Networks for ML](https://www.class-central.com/mooc/398/coursera-neural-networks-for-machine-learning)
 
-[Practical Learning for Coders -1](https://www.class-central.com/mooc/7887/practical-deep-learning-for-coders-part-1)
+[Practical Deep Learning for Coders -1](http://course.fast.ai/start.html)
 
 [Introduction to Deep Learning](https://www.class-central.com/mooc/8083/6-s191-introduction-to-deep-learning)
 
 [Deep Learning for NLP](https://www.class-central.com/mooc/8097/deep-learning-for-natural-language-processing)
+
+[NLP with Deep Learning @ Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 
 ## Self Training/Tutorial
@@ -80,7 +84,7 @@
 
 [DeepMind](https://deepmind.com/)
 
-[Google Search](https://research.googleblog.com/)
+[Google Research](https://research.googleblog.com/)
 
 [AWS AI](https://aws.amazon.com/blogs/ai/)
 
