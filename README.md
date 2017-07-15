@@ -130,3 +130,7 @@
 [AI Blog](https://openai.com/blog/)
 
 [Cheat Sheet](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
+
+[AI tools For Personal Use](https://lyr.ai/artificial-intelligence-for-personal-use/)
+
+[AI Tools For Business Use](https://lyr.ai/a-list-of-artificial-intelligence-tools-you-can-use-today%E2%80%8A-%E2%80%8Afor-businesses/)
