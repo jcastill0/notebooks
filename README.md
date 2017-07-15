@@ -14,6 +14,8 @@
 ### Prerequisites
 [Linear Algebra @ Udacity](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 
+[Linear Algebra @ Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+
 [Probability @ UBC](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
 [Probability and Statistics @ Stanford](http://online.stanford.edu/course/probability-and-statistics-self-paced)
