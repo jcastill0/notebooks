@@ -102,6 +102,8 @@
 
 [Google Research](https://research.googleblog.com/)
 
+[Google.AI](https://ai.google.com)
+
 [AWS AI](https://aws.amazon.com/blogs/ai/)
 
 [Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/)
