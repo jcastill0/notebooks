@@ -14,7 +14,9 @@
 
 [Probability @ UBC](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
-[Statistics @ Stanford](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+[Probability and Statistics @ Stanford](http://online.stanford.edu/course/probability-and-statistics-self-paced)
+
+[Statistics @ Stanford](http://online.stanford.edu/course/statistical-learning-winter-2014/)
 
 [Statistics](http://www.springer.com/de/book/9780387402727)
 
