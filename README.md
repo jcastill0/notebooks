@@ -81,7 +81,22 @@
 ### Math
 #### Linear Algebra
 #### Probability
+[Understanding Bayes Theorem](https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/)
+
+[Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf)
+
+[Probably Theory review for ML](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf)
+
 #### Calculus
+[Calculus Overview](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
+
+[How to Understand Derivatives A](https://betterexplained.com/articles/how-to-understand-derivatives-the-quotient-rule-exponents-and-logarithms/)
+
+[How to Understand Derivatives B](https://betterexplained.com/articles/derivatives-product-power-chain/)
+
+[Vector Calculus: Gradient](https://betterexplained.com/articles/vector-calculus-understanding-the-gradient/)
+
+[Differential Calculus](http://web.stanford.edu/class/cs224n/lecture_notes/cs224n-2017-review-differential-calculus.pdf
 
 ### Tensorflow
 ### Keras
