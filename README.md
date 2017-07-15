@@ -18,6 +18,8 @@
 ### AI/ML
 [Machine Learning @ Coursera](https://www.coursera.org/learn/machine-learning)
 
+[Neural Networks for Machine Learning @ Coursera](https://www.coursera.org/learn/neural-networks)
+
 [Deep Learning by Google @ Udacity](https://www.udacity.com/course/deep-learning--ud730)
 
 [Deep Learning for NLP @ Stanford](http://cs224d.stanford.edu/syllabus.html)
@@ -52,13 +54,13 @@
 [Redit Data Sets](https://www.reddit.com/r/datasets/)
 
 ### Public Image Data Sets
-
 [IRIS Flowers Data Set](https://github.com/MateLabs/Public-Datasets/blob/master/Datasets/iris.csv)
 
 [Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing)
 
 ## Learning Platforms
 [Tensorflow; ](https://www.tensorflow.org/)
+
 [Tensorflow Sandbox](http://playground.tensorflow.org/)
 
 [Apache PredictionIO](http://predictionio.incubator.apache.org/)
@@ -72,6 +74,21 @@
 [Panda](http://pandas.pydata.org/)
 
 [Panda Intro](https://youtu.be/9d5-Ti6onew0)
+
+## Organizations
+[OpenAI](https://openai.com/)
+
+[DeepMind](https://deepmind.com/)
+
+[Google Search](https://research.googleblog.com/)
+
+[AWS AI](https://aws.amazon.com/blogs/ai/)
+
+[Facebook AI Research](https://research.fb.com/category/facebook-ai-research-fair/)
+
+[Microsoft Research](https://www.microsoft.com/en-us/research/)
+
+[Bauidu Research](http://research.baidu.com/)
 
 ## Getting Started
 [Installing Anaconda](https://www.continuum.io/downloads)
