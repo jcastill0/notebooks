@@ -3,6 +3,8 @@
 
 [Tensorflow and Deep Learning](https://youtu.be/qyvlt7kiQoI0)
 
+[Deep Visualization Toolbox] (https://youtu.be/AgkfIQ4IGaM)
+
 ### Youtube Channels
 [Sentdex](https://www.youtube.com/user/sentdex)
 
