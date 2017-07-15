@@ -125,6 +125,9 @@
 %conda install -c conda-forge tensorflow
 # Keras
 %conda install -c conda-forge keras
+
+# update
+%conda update <package>
 ```
 ## References
 [Deep Learning Glossary](https://deeplearning4j.org/glossary)
