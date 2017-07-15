@@ -38,6 +38,11 @@
 
 [NLP with Deep Learning @ Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
+## YouTube
+
+[Sentdex](https://www.youtube.com/user/sentdex)
+
+[ML @ Berkeley](https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg)
 
 ## Self Training/Tutorial
 [7 Steps to Machine Learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
