@@ -48,13 +48,44 @@
 [NLP with Deep Learning @ Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 ## Self Training/Tutorials
+### Python
 [7 Steps to Machine Learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
-[Tutorial References](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
-
-[Keras Simple Tutorial](https://www.datacamp.com/community/tutorials/deep-learning-python#gs.B1YeSy8)
-
 [Kaggle Python Tutorial](https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning#gs.MspTReE)
+
+#### Scipy and Numpy
+#### scikit learn
+#### Pytorch
+
+[Tutorial References](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+### Machine Learning
+#### Activation and Loss Functions
+#### Bias
+#### Perceptron
+#### Regression
+#### Gradient Descent
+#### Generative Learning
+#### Support Vector Machine
+#### Backpropagation
+#### Deep Learning
+#### Optimization and Dimensionality Reduction
+#### Long Short Term Memory
+#### Convolutional Neural Networks CNN
+#### Recurrent Neural Networks RNN
+#### Reinforcement Learning
+#### Generative Adversarial Network GAN
+### NLP
+#### Deep Learning and NLP
+#### Word Vectors
+#### Encoder Decoders
+### Math
+#### Linear Algebra
+#### Probability
+#### Calculus
+
+### Tensorflow
+### Keras
+[Keras Simple Tutorial](https://www.datacamp.com/community/tutorials/deep-learning-python#gs.B1YeSy8)
 
 ## Tools
 [Anaconda](https://www.continuum.io/)
@@ -75,7 +106,6 @@
 [Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing)
 
 ## Learning Platforms
-
 [OpenAI Gym](https://gym.openai.com/)
 
 [Kaggle](https://www.kaggle.com/)
