@@ -80,6 +80,8 @@
 
 [Kaggle](https://www.kaggle.com/)
 
+[Algebraic Visualizations](https://github.com/quiltdata/algebraic-vis)
+
 ### Tensorflow
 [Tensorflow; ](https://www.tensorflow.org/)
 
