@@ -80,10 +80,8 @@
 ### Apache
 [Apache PredictionIO](http://predictionio.incubator.apache.org/)
 
-## Algorithms
+### Algorithms
 [Algorithmia](https://algorithmia.com/)
-
-[One Comparison](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 
 ## Libraries
 [Panda](http://pandas.pydata.org/)
@@ -135,6 +133,8 @@
 
 [Cheat Sheet](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
-[AI tools For Personal Use](https://lyr.ai/artificial-intelligence-for-personal-use/)
+[AI Tools For Personal Use](https://lyr.ai/artificial-intelligence-for-personal-use/)
 
 [AI Tools For Business Use](https://lyr.ai/a-list-of-artificial-intelligence-tools-you-can-use-today%E2%80%8A-%E2%80%8Afor-businesses/)
+
+[Comparing Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
