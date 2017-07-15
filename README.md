@@ -75,6 +75,11 @@
 [Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing)
 
 ## Learning Platforms
+
+[OpenAI Gym](https://gym.openai.com/)
+
+[Kaggle](https://www.kaggle.com/)
+
 ### Tensorflow
 [Tensorflow; ](https://www.tensorflow.org/)
 
