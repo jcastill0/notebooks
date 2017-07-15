@@ -49,7 +49,13 @@
 ## Data Repositories
 [UCI](http://archive.ics.uci.edu/ml/)
 
-[Data Sets](https://www.reddit.com/r/datasets/)
+[Redit Data Sets](https://www.reddit.com/r/datasets/)
+
+### Public Image Data Sets
+
+[IRIS Flowers Data Set](https://github.com/MateLabs/Public-Datasets/blob/master/Datasets/iris.csv)
+
+[Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing)
 
 ## Learning Platforms
 [Tensorflow; ](https://www.tensorflow.org/)
