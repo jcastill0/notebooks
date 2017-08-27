@@ -95,6 +95,8 @@
 #### Deep Learning and NLP
 #### Word Vectors
 #### Encoder Decoders
+#### Gensim
+[Gensim Tutorial](https://radimrehurek.com/gensim/)
 ### Math
 #### Linear Algebra
 #### Probability
