@@ -187,12 +187,17 @@
 [Installing Anaconda](https://www.continuum.io/downloads)
 
 ### MacOS Installation notes
-#### Libraries not available from Conda Repo
+#### Install Libraries not available from Conda Repo
 ```
 %source activate <Conda-Env>
 %pip install <package>
 ```
-#### Libraries available from Conda Repo
+#### Update libraries installed by pip
+```
+%pip list --outdated
+%pip install <package> --upgrade
+```
+#### Install Libraries available from Conda Repo
 ```
 %source activate <Conda-Env>
 %conda list # to show currently installed packages
