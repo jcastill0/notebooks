@@ -70,6 +70,22 @@
 
 [Machine Learning is fun - Part 8](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
 
+[Machine Learning for Humans - Part 1.0](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+
+[Machine Learning for Humans - Part 2.1](https://medium.com/machine-learning-for-humans/supervised-learning-740383a2feab)
+
+[Machine Learning for Humans - Part 2.2](https://medium.com/machine-learning-for-humans/supervised-learning-2-5c1c23f3560d)
+
+[Machine Learning for Humans - Part 2.3](https://medium.com/machine-learning-for-humans/supervised-learning-3-b1551b9c4930)
+
+[Machine Learning for Humans - Part 3.0](https://medium.com/machine-learning-for-humans/unsupervised-learning-f45587588294)
+
+[Machine Learning for Humans - Part 4.0](https://medium.com/machine-learning-for-humans/neural-networks-deep-learning-cdad8aeae49b)
+
+[Machine Learning for Humans - Part 5.0](https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265)
+
+[Machine Learning for Humans - Appendix](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
+
 #### Scipy and Numpy
 #### scikit learn
 #### Pytorch
