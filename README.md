@@ -117,6 +117,8 @@
 
 [Differential Calculus](http://web.stanford.edu/class/cs224n/lecture_notes/cs224n-2017-review-differential-calculus.pdf
 
+[Activation Functions](https://medium.com/towards-data-science/secret-sauce-behind-the-beauty-of-deep-learning-beginners-guide-to-activation-functions-a8e23a57d046)
+
 ### Tensorflow
 ### Keras
 [Keras Simple Tutorial](https://www.datacamp.com/community/tutorials/deep-learning-python#gs.B1YeSy8)
