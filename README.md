@@ -24,9 +24,9 @@
 
 [Statistics](http://www.springer.com/de/book/9780387402727)
 
-[Kaggle](https://www.kaggle.com/learn/overview)
+[Data Science @ Kaggle](https://www.kaggle.com/learn/overview)
 
-[Data Science](https://data.berkeley.edu/education/courses/data-8-foundations-data-science)
+[Data Science @ Berkeley](https://data.berkeley.edu/education/courses/data-8-foundations-data-science)
 
 
 
