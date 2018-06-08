@@ -31,7 +31,7 @@
 
 
 ### AI/ML
-[Machine Learning @ Google] (https://developers.google.com/machine-learning/crash-course/)
+[Machine Learning @ Google](https://developers.google.com/machine-learning/crash-course/)
 
 [Machine Learning @ Coursera](https://www.coursera.org/learn/machine-learning)
 
