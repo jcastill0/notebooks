@@ -160,6 +160,8 @@
 
 [Redit Data Sets](https://www.reddit.com/r/datasets/)
 
+[All of them](https://dreamtolearn.com/ryan/1001_datasets)
+
 ### Public Image Data Sets
 [IRIS Flowers Data Set](https://github.com/MateLabs/Public-Datasets/blob/master/Datasets/iris.csv)
 
