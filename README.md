@@ -37,6 +37,8 @@
 
 [Machine Learning @ Udacity](https://www.udacity.com/course/machine-learning--ud262)
 
+[Machine Learning @ Amazon] (https://aws.amazon.com/training/learning-paths/machine-learning/)
+
 [Neural Networks for Machine Learning @ Coursera](https://www.coursera.org/learn/neural-networks)
 
 [Deep Learning by Google @ Udacity](https://www.udacity.com/course/deep-learning--ud730)
